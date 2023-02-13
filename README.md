@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Embeded Systems<br>
-🌱 I’m currently learning Database(SQL)<br>
+🌱 I’m currently learning Machine Learning<br>
 📫 How to reach me:gunasaikiran8055@gmail.com<br>
 <!--👯 I’m looking to collaborate on ...
 -🤔 I’m looking for help with ...
