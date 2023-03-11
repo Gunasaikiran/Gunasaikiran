@@ -22,6 +22,14 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<h2> :zap: GitHub Trophies 🏆</h2>
+
+<p align="center">
+  <a href="https://github.com/Gunasaikiran" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gunasaikiran&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+
 ### 📫 Contact me: <br>
 <a href="https://www.linkedin.com/in/guna-sai-kiran-b526a2220/">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
