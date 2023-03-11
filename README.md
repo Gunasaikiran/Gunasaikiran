@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -😄 Pronouns: ...
 -⚡ Fun fact: ...
 -->
+<p align="center">
+    <a href="https://github.com/Gunasaikiran/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gunasaikiran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ### 📫 Contact me: <br>
 <a href="https://www.linkedin.com/in/guna-sai-kiran-b526a2220/">
