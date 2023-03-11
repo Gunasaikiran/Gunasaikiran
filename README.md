@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on RTL Designing<br>
+🔭 I’m currently working on RTL Design<br>
 🌱 I’m currently STA<br>
 📫 How to reach me:gunasaikiran8055@gmail.com<br>
 <!--👯 I’m looking to collaborate on ...
