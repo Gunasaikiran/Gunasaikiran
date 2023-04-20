@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 🔭 I’m currently working on RTL Design<br>
-🌱 I’m currently STA<br>
+🌱 I’m currently Learning STA<br>
 📫 How to reach me:gunasaikiran8055@gmail.com<br>
 Personal Website - <a href=https://gunasaikiran.github.io/>Guna Sai Kiran</a>
 
