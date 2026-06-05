@@ -1,54 +1,76 @@
-### Hi there I'm Guna Sai Kiran👋
+# Hi there, I'm Guna Sai Kiran 👋
 
-<!--
-**Gunasaikiran/Gunasaikiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Modem Systems Engineer @ Qualcomm | M.Tech (ECE) @ IISc Bangalore
 
-Here are some ideas to get you started:
--->
-🔭 I’m currently working on RTL Design<br>
-🌱 I’m currently Learning STA<br>
-📫 How to reach me:gunasaikiran8055@gmail.com<br>
-Personal Website - <a href=https://gunasaikiran.github.io/>Guna Sai Kiran</a>
+Passionate about wireless communications, 5G/6G systems, Reconfigurable Intelligent Surfaces (RIS), and next-generation modem technologies. I enjoy bridging theory and practical implementation through research, simulations, and real-world experimentation.
 
-<!--👯 I’m looking to collaborate on ...
--🤔 I’m looking for help with ...
--💬 Ask me about ...
+🔭 Currently working as **Modem Systems Engineer at Qualcomm**
 
--😄 Pronouns: ...
-⚡ Personal Website: ...
--->
-<h2> ⚡ Streak Status 🤩</h2>
-<p align="center">
-    <a href="https://github.com/Gunasaikiran/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gunasaikiran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+🎓 Completed **M.Tech in Electronics & Communication Engineering** from **Indian Institute of Science (IISc), Bangalore**
 
-<h2> :zap: GitHub Trophies 🏆</h2>
+🌱 Currently exploring:
 
-<p align="center">
-  <a href="https://github.com/Gunasaikiran" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gunasaikiran&theme=gruvbox&layout=compact&title_color=00FF00"/>
-  </a>
-</p>
+* 5G NR and 6G Wireless Systems
+* Modem Algorithms and System Design
+* Reconfigurable Intelligent Surfaces (RIS)
+* Wireless Communication Theory
+* PHY Layer Signal Processing
 
-### 📫 Contact me: <br>
+📖 Research Interests:
+
+* Wireless Communications
+* Reconfigurable Intelligent Surfaces (RIS)
+* 5G/6G Networks
+* Resource Scheduling
+* Channel Modeling and Performance Analysis
+
+📫 Email: **[gunasaikiran8055@gmail.com](mailto:gunasaikiran8055@gmail.com)**
+
+🌐 Personal Website: <a href="https://gunasaikiran.github.io/">gunasaikiran.github.io</a>
+
+---
+
+## ⚡ Research Highlights
+
+* IEEE ICC Conference Author
+* Journal Manuscript Submitted to IEEE Transactions on Communications (IEEE TCOM)
+* Research on Practical RIS Integration in Real-Time 5G NR Systems
+* Experimental Validation of Opportunistic Scheduling with RIS
+
+---
+
+## 🔗 Connect with Me
+
 <a href="https://www.linkedin.com/in/guna-sai-kiran-b526a2220/">
-  <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+  <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://twitter.com/GunaSaikiran04">
-  <img align="left" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
+
 <a href="mailto:gunasaikiran8055@gmail.com">
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
+<br><br>
 
-<br>
-<br>
+## ⚡ GitHub Streak
 
-![Guna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunasaikiran&show_icons=true&theme=tokyonight)
+<p align="center">
+    <a href="https://github.com/Gunasaikiran/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunasaikiran&theme=black-ice&hide_border=true" />
+    </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasaikiran&&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/Gunasaikiran">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gunasaikiran&theme=gruvbox&layout=compact" />
+  </a>
+</p>
+
+## 📊 GitHub Statistics
+
+![Guna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunasaikiran\&show_icons=true\&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasaikiran\&layout=compact\&langs_count=6\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gunasaikiran.Gunasaikiran)
