@@ -1,12 +1,16 @@
 # Hi there, I'm Guna Sai Kiran 👋
 
-### Modem Systems Engineer @ Qualcomm | M.Tech (ECE) @ IISc Bangalore
+### Modem Systems Engineer @ Qualcomm | Wireless Communications Researcher
 
-Passionate about wireless communications, 5G/6G systems, Reconfigurable Intelligent Surfaces (RIS), and next-generation modem technologies. I enjoy bridging theory and practical implementation through research, simulations, and real-world experimentation.
+Passionate about wireless communications, 5G/6G systems, Reconfigurable Intelligent Surfaces (RIS), and next-generation modem technologies. I enjoy combining theoretical research with practical implementation through simulations, experiments, and real-world wireless systems.
 
 🔭 Currently working as **Modem Systems Engineer at Qualcomm**
 
-🎓 Completed **M.Tech in Electronics & Communication Engineering** from **Indian Institute of Science (IISc), Bangalore**
+🎓 **M.Tech in Electronics & Communication Engineering**
+Indian Institute of Science (IISc), Bangalore
+
+🎓 **B.Tech in Electronics & Communication Engineering**
+Indian Institute of Information Technology (IIIT), Nagpur
 
 🌱 Currently exploring:
 
@@ -23,6 +27,7 @@ Passionate about wireless communications, 5G/6G systems, Reconfigurable Intellig
 * 5G/6G Networks
 * Resource Scheduling
 * Channel Modeling and Performance Analysis
+* Applied Electromagnetics and Metasurfaces
 
 📫 Email: **[gunasaikiran8055@gmail.com](mailto:gunasaikiran8055@gmail.com)**
 
@@ -32,10 +37,23 @@ Passionate about wireless communications, 5G/6G systems, Reconfigurable Intellig
 
 ## ⚡ Research Highlights
 
-* IEEE ICC Conference Author
-* Journal Manuscript Submitted to IEEE Transactions on Communications (IEEE TCOM)
-* Research on Practical RIS Integration in Real-Time 5G NR Systems
-* Experimental Validation of Opportunistic Scheduling with RIS
+* Author of an accepted paper at **IEEE International Conference on Communications (ICC)**
+* Extended journal version submitted to **IEEE Transactions on Communications (IEEE TCOM)**
+* Conducted experimental research on RIS-assisted real-time 5G NR systems
+* Developed theoretical and practical frameworks for opportunistic scheduling with RIS
+* Designed and implemented a broadband FSS-based absorber during B.Tech research
+
+---
+
+## 🔬 Featured Research Areas
+
+* Reconfigurable Intelligent Surfaces (RIS)
+* Wireless Communications and Networking
+* 5G NR / 6G Systems
+* Resource Allocation and Scheduling
+* Channel Estimation and Modeling
+* Electromagnetics and Metamaterials
+* Real-Time Wireless Experimentation
 
 ---
 
@@ -49,28 +67,3 @@ Passionate about wireless communications, 5G/6G systems, Reconfigurable Intellig
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<br><br>
-
-## ⚡ GitHub Streak
-
-<p align="center">
-    <a href="https://github.com/Gunasaikiran/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunasaikiran&theme=black-ice&hide_border=true" />
-    </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Gunasaikiran">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gunasaikiran&theme=gruvbox&layout=compact" />
-  </a>
-</p>
-
-## 📊 GitHub Statistics
-
-![Guna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunasaikiran\&show_icons=true\&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasaikiran\&layout=compact\&langs_count=6\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gunasaikiran.Gunasaikiran)
