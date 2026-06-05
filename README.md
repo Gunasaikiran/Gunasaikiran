@@ -59,7 +59,7 @@ Indian Institute of Information Technology (IIIT), Nagpur
 
 ## 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/guna-sai-kiran-b526a2220/">
+<a href="https://www.linkedin.com/in/guna-sai-kiran-nekkanti-b526a2220/">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
